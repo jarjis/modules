@@ -1,0 +1,33 @@
+{
+  "name": "Aethylred-git",
+  "version": "0.1.2",
+  "source": "https://github.com/nesi/puppet-git",
+  "author": "Aaron Hicks",
+  "license": "GPL3",
+  "summary": "A git module",
+  "description": "A module for managing git repositories and users with Puppet",
+  "project_page": "https://github.com/nesi/puppet-git",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "CONTRIBUTING.markdown": "a1cd2f51732332b236c39c6a4859bb8e",
+    "Gemfile": "890ec72d84df0f143374f380f5b05976",
+    "Modulefile": "cff874714728df72c2f0023b7acaff06",
+    "README.markdown": "52b4dfb0f8054b706db64e799f507670",
+    "Rakefile": "1808d476a9073e4229436de41b5fdf88",
+    "gpl.txt": "bf5c8686e8caf36392c2b5c669795be6",
+    "manifests/init.pp": "e73672cc7ed5220748c511f6d6c6287c",
+    "manifests/params.pp": "6d269227555ac28267802335a143c0d0",
+    "manifests/repo.pp": "46b1927956be877f1895fcfcb1ccefa8",
+    "manifests/user.pp": "d9953d666304072c13f42d0130d0670d",
+    "spec/classes/init_spec.rb": "ae8de57e2904ef1589a2bd526d8acd42",
+    "spec/spec.opts": "c407193b3d9028941ef59edd114f5968",
+    "spec/spec_helper.rb": "146d230be8828171c88ca03beadff890",
+    "spec/spec_helper_system.rb": "9884592847cb26f2503316dd9084dc16",
+    "tests/init.pp": "bcee788a7d204e07e265aeafce4dc88f"
+  }
+}
