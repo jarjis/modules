@@ -10,7 +10,7 @@ class hosts {
 
 	resources {
 	    'host':
-	        purge              => true,
+	        purge  => true,
 	        
 	}
 }

@@ -35,8 +35,8 @@
 #
 # Copyright 2013 Your name here, unless otherwise noted.
 #
-class helloworld {
-    file { '/tmp/helloworld' :
-        content => "See you at doublecloud.org"
+class test {
+    file { '/tmp/test' :
+        content => "testing  ..."
     }
 }
